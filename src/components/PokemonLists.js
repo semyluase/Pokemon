@@ -137,7 +137,7 @@ const PokemonLists = (
 						</Row>
 					</ModalBody>
 					<ModalFooter>
-						<Button color="primary" onClick={}>
+						<Button color="primary" onClick={toggle}>
 							Catch
 						</Button>{' '}
 						<Button color="secondary" onClick={toggle}>
